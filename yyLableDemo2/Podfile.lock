@@ -1,0 +1,30 @@
+PODS:
+  - Masonry (1.1.0)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Masonry
+  - YYKit (from `https://github.com/LoveSVN/YYKit.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  YYKit:
+    :git: https://github.com/LoveSVN/YYKit.git
+
+CHECKOUT OPTIONS:
+  YYKit:
+    :commit: 77d1709ce89a811516fb3650836075807fb07093
+    :git: https://github.com/LoveSVN/YYKit.git
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 2bcc8953f95bf38249b9d538031ff01b5c0e2bcd
+
+COCOAPODS: 1.5.3

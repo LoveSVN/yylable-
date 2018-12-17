@@ -1,0 +1,6 @@
+framework module Pods_yyLableDemo2 {
+  umbrella header "Pods-yyLableDemo2-umbrella.h"
+
+  export *
+  module * { export * }
+}
